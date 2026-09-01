@@ -1,0 +1,9 @@
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;       
+}
+
+*{
+  background-color: rgb(81, 26, 182);
+}
